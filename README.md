@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to my space 👋
 
-<!--
-**wallik2/wallik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saran Pannasuriyaporn
+: I'm literally crazy and funny, feel comfortable to talk with me, it's stress-free !
 
-Here are some ideas to get you started:
+# Position
+- 🔭 I’m currently interning on **SIdata+ **
+   Role : Medical junior data scientist
+- 🌱 I’m currently a third year student at Mahidol university
+- 👯 My fields of interest is Natural Language processing (NLP)
+- ⚡ Fun fact: I'm literally crazy and funny, feel comfortable to talk with me, stress-free !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Contact
+Linkedin : https://www.linkedin.com/in/saran-pannasuriyaporn-1104071ab/
 -->
