@@ -13,6 +13,6 @@ Saran Pannasuriyaporn
 # Contact 
 <a href="https://www.linkedin.com/in/saran-pannasuriyaporn-1104071ab/">
    <img alt="linkedin" src="https://www.shareicon.net/data/512x512/2015/09/23/106002_logo_512x512.png"
-        width=150" height="70">
+        width=150" height="150">
 </a>
 
