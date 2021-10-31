@@ -4,7 +4,7 @@ Saran Pannasuriyaporn
 <br>: I'm literally crazy and funny, feel comfortable to talk with me, it's stress-free !
 
 # Position
-- 🔭 I’m currently interning on **SIdata+ **
+- 🔭 I’m currently interning on ** SIdata+ **
    Role : Medical junior data scientist
 - 🌱 I’m currently a third year student at Mahidol university
 - 👯 My fields of interest is Natural Language processing (NLP)
