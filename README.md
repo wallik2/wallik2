@@ -14,12 +14,12 @@ coming soon
 
 # Contact 
 <a href="https://www.linkedin.com/in/saran-pannasuriyaporn-1104071ab/">
-   <img alt="linkedin" src="https://pbs.twimg.com/media/EVq2ks7XQAQIZte?format=png&name=small"
+   <img alt="linkedin" src="https://github.com/wallik2/wallik2/blob/main/icon/likedin%20icon.png?raw=true"
         width=50" height="50">
 </a>
 
                              
 <a href="https://www.youtube.com/channel/UCDJ1y-YCpuZudh_S4wXYjpA/featured">
-   <img alt="youtube" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg"
+   <img alt="youtube" src="https://raw.githubusercontent.com/wallik2/wallik2/6d0a119e84067652696ff4dca33727cb79ed93ce/icon/youtube%20icon.svg"
         width=50" height="50">
 </a>                             
